@@ -16,4 +16,8 @@ git log 查看git 提交日志
 
 git add 放入暂存区
 
-git log --oneline
+git log --oneline 查看修改
+
+git commit --amend 修改
+
+git checkout -- 返回修改
