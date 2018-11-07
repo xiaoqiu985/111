@@ -20,4 +20,9 @@ git log --oneline 查看修改
 
 git commit --amend 修改
 
+
 git checkout -- 返回修改
+
+git reset HEAD 撤回暂存区
+
+git rm 删除
