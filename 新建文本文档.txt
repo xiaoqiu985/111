@@ -1,0 +1,15 @@
+账号 xiaoqiu985 密码 long81192908
+git --version 版本号
+ls -a 目录
+
+git status 查看追踪
+
+git add index.html 放入暂存区
+
+git config --global user.name xiaoqiu985 配置邮箱和账号
+
+git config --global user.eamil 1435266359@qq.comgit
+
+git commit -m 'first commit'   这是我的第一次提交
+
+git log 查看git 提交日志
