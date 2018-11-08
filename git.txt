@@ -26,3 +26,8 @@ git checkout -- 返回修改
 git reset HEAD 撤回暂存区
 
 git rm 删除
+
+git branch 查看分支
+
+git branch dev 创建分支 
+
